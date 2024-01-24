@@ -32,3 +32,6 @@ Instructions to run the program:
 	> PREF_M:     10
 	> trace_file: ../example_trace.txt
 	> ===================================
+
+
+ Also in the repository is the project report which gives further insight into the results achieved by the simulator.
